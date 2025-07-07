@@ -8,10 +8,9 @@ El objetivo es aplicar conocimientos fundamentales del lenguaje mediante ejercic
 
 # Live Preview
 
+![image](https://github.com/user-attachments/assets/03cb96b9-f0d9-41f1-8028-94e5e0f026a8)
 
 https://remigio96.github.io/funcionesJS/
-
-
 
 ---
 
